@@ -20,7 +20,7 @@ export default class Navbar extends Component {
     return (
       <nav className="navbar navbar-expand-lg">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">News-point</Link>
+          <Link className="navbar-brand" to="/">News-Point</Link>
           <button className="navbar-toggler "  data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span >&darr;</span>
           </button>
