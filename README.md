@@ -1,7 +1,12 @@
-News-Point is a Web-Application build by using React.js.It is
-<h3>News-Api</h3>
+<h1 class="text-center" >News-Point</h1>
+It is a Web-Application build by using React which provide different categories of News by using fetch APIs from <a href="http://newsapi.org">newsapi.org</a>. 
+<h3>Tools Used</h3>
+*Function Based Components
+*Class Based Components
+*React-Router
+*usestate Hooks
+*APIs
 
-name
 
 
 
