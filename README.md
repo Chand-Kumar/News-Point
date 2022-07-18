@@ -5,7 +5,11 @@ It is a Web-Application build by using React which provide different categories 
 * Class Based Components <br/>
 * React-Router <br/>
 * usestate Hooks <br/>
-* APIs <br/>
+* News APIs <br/>
+<h2>Features<h2/>
+* Loading Spinner <br/>
+* Navbar to Navigate to different categories of News <br/>
+* Mobile Responsive <br/>  
 
 
 
