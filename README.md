@@ -1,3 +1,13 @@
+News-Point is a Web-Application build by using React.js.It is
+<h3>News-Api</h3>
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
