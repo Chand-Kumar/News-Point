@@ -6,7 +6,8 @@ It is a Web-Application build by using React which provide different categories 
 * React-Router <br/>
 * usestate Hooks <br/>
 * News APIs <br/>
-<h2>Features<h2/>
+
+<h1>Features</h1>
 * Loading Spinner <br/>
 * Navbar to Navigate to different categories of News <br/>
 * Mobile Responsive <br/>  
