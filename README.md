@@ -1,6 +1,6 @@
 <h1 class="text-center" >News-Point</h1>
 It is a Web-Application build by using React which provide different categories of News by using fetch APIs from <a href="http://newsapi.org">newsapi.org</a>. 
-<h1>Tools Used</h1>
+<h1 style="color:'red'" >Tools Used</h1>
 * Function Based Components <br/>
 * Class Based Components <br/>
 * React-Router <br/>
