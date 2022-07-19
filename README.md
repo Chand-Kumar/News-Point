@@ -13,9 +13,9 @@ It is a Web-Application build by using React which provide different categories 
 * Mobile Responsive <br/>  
 
 <h1>Some Snapshots</h1>
-<img src="https://user-images.githubusercontent.com/88345628/179741043-173987df-bf77-476d-a3d5-5645349b1068.png" width="200px" height="auto"></img>
-<img src="https://user-images.githubusercontent.com/88345628/179741285-65569239-3921-4237-8fbe-52c96f15de44.png" width="200px" height="auto"></img>
-<img src="https://user-images.githubusercontent.com/88345628/179741298-ab7714e5-7ed6-41b9-b2fd-de4efb68cf58.png" width="200px" height="auto"></img>
+<img src="https://user-images.githubusercontent.com/88345628/179741043-173987df-bf77-476d-a3d5-5645349b1068.png" width="350px" height="auto"></img>
+<img src="https://user-images.githubusercontent.com/88345628/179741285-65569239-3921-4237-8fbe-52c96f15de44.png" width="350px" height="auto"></img>
+<img src="https://user-images.githubusercontent.com/88345628/179741298-ab7714e5-7ed6-41b9-b2fd-de4efb68cf58.png" width="350px" height="auto"></img>
 
 
 # Getting Started with Create React App
